@@ -1,0 +1,23 @@
+<staff_data>
+    <staff>
+        <EmployeeNumber>1</EmployeeNumber>
+        <Name>Nuwandi Hashinika</Name>
+        <Gender>F</Gender>
+        <Address>123 Main Street</Address>
+        <TelephoneNumber>0714755550</TelephoneNumber>
+    </staff>
+    <staff>
+        <EmployeeNumber>2</EmployeeNumber>
+        <Name>Janith Madusanka</Name>
+        <Gender>M</Gender>
+        <Address>456 Homagama</Address>
+        <TelephoneNumber>0768441854</TelephoneNumber> 
+    </staff>
+    <staff>
+        <EmployeeNumber>3</EmployeeNumber>
+        <Name>Rasadi Perera</Name>
+        <Gender>F</Gender>
+        <Address>78 Piliyndala</Address>
+        <TelephoneNumber>0789441854</TelephoneNumber> 
+    </staff>
+</staff_data>

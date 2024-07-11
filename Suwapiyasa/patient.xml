@@ -1,0 +1,29 @@
+<patient_data>
+    <patient>
+        <PatientID>1</PatientID>
+        <Initials>ND</Initials>
+        <Surname>Alice</Surname>
+        <Age>60</Age>
+        <Address>789 Horana</Address>
+        <TelephoneNumber>0716896555</TelephoneNumber>
+        <BloodType>A+</BloodType>
+    </patient>
+    <patient>
+       <PatientID>2</PatientID>
+        <Initials>SDD</Initials>
+        <Surname>Perera</Surname>
+        <Age>45</Age>
+        <Address>567 Maharagama</Address>
+        <TelephoneNumber>0771802060</TelephoneNumber>
+        <BloodType>B-</BloodType>  
+    </patient>
+    <patient>
+       <PatientID>3</PatientID>
+        <Initials>MED</Initials>
+        <Surname>Jayarathna</Surname>
+        <Age>28</Age>
+        <Address>87 Pannipitiya</Address>
+        <TelephoneNumber>'0771898706</TelephoneNumber>
+        <BloodType>B+</BloodType>  
+    </patient>
+</patient_data>
